@@ -1,0 +1,9 @@
+# Fichiers produits par la compilation
+obj/
+*.o
+*.a
+minishell
+
+# Fichiers de l'éditeur et du système
+.vscode/
+.DS_Store
